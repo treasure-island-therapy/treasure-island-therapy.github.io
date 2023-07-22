@@ -10,7 +10,7 @@ description: "Treasure Island Therapy, for educational and therapy needs of chil
 # Team names, titles and social links
 people:
 - name: Ebrahim Chasmai
-  pic: 1
+  pic: 
   position: 
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Tahera Chasmai
-  pic: 2
+  pic: 
   position: 
   social:
     - title: twitter
