@@ -1,15 +1,8 @@
 ---
 title: Therapy Items
-subtitle: subtitle
 layout: default
 modal-id: 1
-date: 2023-07-22
 img: grippers.jpeg
-thumbnail: grippers.jpeg
-alt: grippers.jpeg
-project-date: July 2023
-client: Start Bootstrap
 category: Fine motors
 description: Different pencil grippers. Prices may differ
-
 ---
