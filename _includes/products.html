@@ -9,9 +9,9 @@
             </div>
             <div class="row">
             {% for post in site.posts %}
-                <div class="col-md-6 col-sm-12 portfolio-item animate-left show-on-scroll">
-                    <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="">
-                    <div class="portfolio-caption">
+                <div class="col-md-6 col-sm-12 portfolio-item">
+                    <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered animate-left show-on-scroll" alt="">
+                    <div class="portfolio-caption animate-left-slow show-on-scroll">
                         <h4>{{ post.title }}</h4>
                     </div>
                 </div>

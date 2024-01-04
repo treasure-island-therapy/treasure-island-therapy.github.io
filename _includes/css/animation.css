@@ -7,6 +7,20 @@
     will-change: transform, opacity;
 }
 
+.animate-left-slow {
+    opacity: 0;
+    -webkit-transform: translateX(-50em) rotateZ(0deg);
+    transform: translateX(-50em) rotateZ(0deg);
+    -webkit-transition: opacity .4s .25s ease-out, -webkit-transform 5s .25s cubic-bezier(0, 1, .3, 1);
+    transition: opacity .4s .25s ease-out, -webkit-transform 5s .25s cubic-bezier(0, 1, .3, 1);
+    will-change: transform, opacity;
+}
+.animate-left-slow.is-visible {
+    opacity: 1;
+    -webkit-transform: rotateZ(0deg);
+    transform: rotateZ(0deg);
+}
+
 .animate-right {
     opacity: 0;
     -webkit-transform: translateX(50em) rotateZ(0deg);
