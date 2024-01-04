@@ -1,0 +1,5 @@
+---
+title: Flash cards
+layout: default
+img: img6.png
+---

@@ -1,0 +1,5 @@
+---
+title: Other Equipment
+layout: default
+img: img4.jpeg
+---
