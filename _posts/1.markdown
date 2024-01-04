@@ -2,4 +2,13 @@
 title: Therapy Equipment
 layout: default
 img: img1.png
+thumbnail: img1.png
+alt: img1.png
+subtitle: subtitle
+modal-id: 1
+date: 2024-01-04
+project-date: January 2024
+client: ti
+category: Fine motors
+description: description
 ---
